@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/teun/repositories/message-bus/GettingStarted/GettingStarted.csproj": {}
+  },
+  "projects": {
+    "/home/teun/repositories/message-bus/GettingStarted/GettingStarted.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/teun/repositories/message-bus/GettingStarted/GettingStarted.csproj",
+        "projectName": "GettingStarted",
+        "projectPath": "/home/teun/repositories/message-bus/GettingStarted/GettingStarted.csproj",
+        "packagesPath": "/home/teun/.nuget/packages/",
+        "outputPath": "/home/teun/repositories/message-bus/GettingStarted/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/teun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.0, 9.0.0)"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
