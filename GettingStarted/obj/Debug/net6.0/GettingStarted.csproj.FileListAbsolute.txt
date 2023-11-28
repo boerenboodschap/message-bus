@@ -12,7 +12,6 @@
 /home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/GettingStarted.pdb
 /home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/MassTransit.dll
 /home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/MassTransit.Abstractions.dll
-/home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
 /home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
 /home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
 /home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
@@ -50,3 +49,7 @@
 /home/teun/repositories/message-bus/GettingStarted/obj/Debug/net6.0/GettingStarted.pdb
 /home/teun/repositories/message-bus/GettingStarted/obj/Debug/net6.0/GettingStarted.genruntimeconfig.cache
 /home/teun/repositories/message-bus/GettingStarted/obj/Debug/net6.0/ref/GettingStarted.dll
+/home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/MassTransit.RabbitMqTransport.dll
+/home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/home/teun/repositories/message-bus/GettingStarted/bin/Debug/net6.0/System.Threading.Channels.dll
